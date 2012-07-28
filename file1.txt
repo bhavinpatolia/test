@@ -2,10 +2,9 @@ bla bla bla
 
 Edit file 2
 
-<<<<<<< HEAD
 ssome more changes
 
 snfkajfsafn
-=======
+
 new line!
->>>>>>> remotes/upstream/master
+
